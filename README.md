@@ -1,7 +1,7 @@
 ### Howdy! I'm Noah 👋
 
 # 💫 About Me:
-- ⚡ I love learning about new coding languages and programming.<br>- 🔭 I’m currently working on several Java and Python projects.<br>- 🌱 I’m currently learning about neural networks and Linux.<br>- 👯 I’m looking to collaborate on a neural netowork project.
+- ⚡ I love learning about new coding languages and programming!<br>- 🔭 I’m currently working on several Java and Python projects.<br>- 🌱 I’m currently learning about neural networks and Linux.<br>- 👯 I’m looking to collaborate on a neural netowork project.
 
 
 ## 🌐 Socials:
